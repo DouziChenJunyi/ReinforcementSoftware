@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>JCQ_background.png</file>
+        <file>BQKZ_Icon.png</file>
+        <file>CWMN_Icon.png</file>
+        <file>CXXZ_Icon.png</file>
+        <file>JCBY_Icon.png</file>
+        <file>JGFX_Icon.png</file>
+        <file>LLVM_Icon.png</file>
+    </qresource>
+</RCC>

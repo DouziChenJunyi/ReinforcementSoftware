@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>bg_Image_All.png</file>
+        <file>mainwindow.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>IO_Background.png</file>
+        <file>CWMN_Icon.png</file>
+        <file>CXXZ_Icon.png</file>
+        <file>JGFX_Icon.png</file>
+        <file>LLVM_Icon.png</file>
+    </qresource>
+</RCC>
